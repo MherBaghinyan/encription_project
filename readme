@@ -1,0 +1,1 @@
+maven execution command: assembly:assembly -Dexec.args="input.xlsx output.xlsx"
