@@ -1,1 +1,1 @@
-maven execution command: assembly:assembly -Dexec.args="input.xlsx output.xlsx"
+maven execution command: assembly:assembly -Dexec.args="D:\projects\upwork\encription_project\input2b.xlsx D:\projects\upwork\encription_project\output2b.xlsx"
